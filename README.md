@@ -1,6 +1,6 @@
 
 
-<img alt="Banner" width="100%" src="https://github.com/abhijeet317/abhijeet317.github.io/blob/7d6b5065b87c92bc35803e7769f5f0f33fb3a465/images/ezgif.com-gif-maker.gif">
+<img alt="Banner" width="100%" src="https://github.com/abhijeet317/abhijeet317.github.io/blob/8e0334517b0a4d7107acfadc2b3d5f12839205fd/assets/images/giphy.gif">
 
 # 💫About Me :
 
