@@ -13,9 +13,9 @@
 
 - When I'm not Infront of a computer screen, I'm probably swimming, travelling, playing football or crossing off another item on my bucket list.
 
-## 🌐Socials
+## 🌐Socials <img src="/docs/assets/images/output-onlinegiftools.gif" alt="HTML image alt text" title="Optional image title" align="right" width="100px" />
 
-<!-- <img align="right" alt="octa_tech" width="30%" src="/docs/assets/images/output-onlinegiftools.gif" /> -->
+
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/the_axion) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theabhijeet.m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeetmohankuda) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abhijeetmohankuda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theabhijeet_m) 
 
