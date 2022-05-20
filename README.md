@@ -13,7 +13,7 @@
 
 - When I'm not Infront of a computer screen, I'm probably swimming, travelling, playing football or crossing off another item on my bucket list.
 
-## 🌐Socials <img src="/docs/assets/images/output-onlinegiftools.gif" alt="HTML image alt text" title="Optional image title" align="right" width="100px" />
+## 🌐Socials <img src="/docs/assets/images/output-onlinegiftools.gif" alt="octa_tech" title="Octacat" align="right" width="100px" />
 
 
 
