@@ -1,5 +1,5 @@
 
-<img alt="Banner" width="1640px" src="/docs/assets/images/ezgif.com-gif-maker.gif" /> 
+<img alt="Banner" width="100%" src="/docs/assets/images/ezgif.com-gif-maker.gif" /> 
 
 # 💫About Me :
 
